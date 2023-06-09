@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 73DF-6310
+
+ Directory of C:\Users\HIENPC\Desktop\min\test
+
+09/06/2023  01:53 CH    <DIR>          .
+09/06/2023  01:53 CH    <DIR>          ..
+09/06/2023  11:02 SA    <DIR>          cucest
+09/06/2023  01:53 CH                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  18.089.078.784 bytes free
