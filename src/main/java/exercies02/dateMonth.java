@@ -1,7 +1,11 @@
 package exercies02;
 
+<<<<<<< HEAD
 public class
 dateMonth {
+=======
+public class dateMonth {
+>>>>>>> 8a53b8d ( V12-11 phamcuc)
   //Viết chương trình nhập vào tháng và năm, sau đó tính và in ra số ngày của tháng thuộc năm đã nhập.
 public void dateMonth(int month,int year){
   switch(month){
