@@ -1,6 +1,7 @@
 package exercies02;
 
-public class dateMonth {
+public class
+dateMonth {
   //Viết chương trình nhập vào tháng và năm, sau đó tính và in ra số ngày của tháng thuộc năm đã nhập.
 public void dateMonth(int month,int year){
   switch(month){
